@@ -2,3 +2,4 @@ observe-metrics/target/**
 observe-jaeger/target/**
 observe-kiali/target/**
 traffic-deploy/target/**
+traffic-route/target/**
