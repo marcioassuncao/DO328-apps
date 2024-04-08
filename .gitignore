@@ -3,5 +3,6 @@ observe-jaeger/target/**
 observe-kiali/target/**
 traffic-deploy/target/**
 traffic-route/target/**
+release-canary/target/**
 traffic-mesh/target/**
 traffic-external/target/**
