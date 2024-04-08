@@ -4,3 +4,4 @@ observe-kiali/target/**
 traffic-deploy/target/**
 traffic-route/target/**
 traffic-mesh/target/**
+traffic-external/target/**
