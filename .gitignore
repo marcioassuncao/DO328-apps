@@ -6,3 +6,4 @@ traffic-route/target/**
 release-canary/target/**
 traffic-mesh/target/**
 traffic-external/target/**
+chaos-delay/target/**
