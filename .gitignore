@@ -9,3 +9,4 @@ traffic-external/target/**
 chaos-delay/target/**
 chaos-mesh/target/**
 resilience-retry/target/**
+resilience-timeout/target/**
