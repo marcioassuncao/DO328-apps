@@ -11,6 +11,7 @@ chaos-mesh/target/**
 resilience-retry/target/**
 resilience-timeout/target/**resilience-break/target/**
 resilience-mesh/target/**
+comprehensive-review/target/**
 secure-mesh/target/**
 secure-authc/target/**
 secure-mtls/target/**
